@@ -1,8 +1,9 @@
 
 <div>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hello+World!;Welcome+to+my+GitHub" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75">&nbsp;
+  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp; -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hello+World!;Welcome+to+my+GitHub" />
+  
 </div>
 
 
@@ -22,7 +23,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"> -->
 </div>
 
 <br><br>
